@@ -18,6 +18,7 @@ public class TestProjekt {
         // TODO code application logic here
         System.out.println("Dino stinkt");
         System.out.println("Jakob ist cool!");
+        System.out.println("Domi hat's geschafft!");
     }
     
 }
