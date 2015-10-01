@@ -19,6 +19,7 @@ public class TestProjekt {
         System.out.println("Dino stinkt");
         System.out.println("Jakob ist cool!");
         System.out.println("Domi hat's geschafft!");
+        System.out.println("Dem Geilem der Boss auch!");
     }
     
 }
